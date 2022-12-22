@@ -21,3 +21,5 @@ let b = (p, l) => {
 }
 
 console.log(a(10), "dan", b(10, 5))
+
+print("hello world")
