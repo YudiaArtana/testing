@@ -1,3 +1,5 @@
+#editdariml
+
 function nama(){
   namalengkap = "Yudia Artana"
   return namalengkap;
